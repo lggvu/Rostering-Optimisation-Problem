@@ -4,6 +4,8 @@ This is a Mini Project associated with the course **Fundamentals of Optimisation
 - Each day, an staff can only work one shift at most. If you work the night shift the day before, you can rest the next day.
 - Each shift in each day has at least alhpa staffs and at most beta staffs.
 - F(i): list of staffs rest days i.
+
+
 **Objective:** The maximum number of night shifts of any employee is minimised.
 Moreoever, we need to generated larger instances of the problem, written to a file of the following format:
 - Line 1: N, D, alpha, beta.
